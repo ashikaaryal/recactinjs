@@ -13,6 +13,7 @@ import Home from './Pages/Home';
 import About from './Pages/About';
 import Contact from './Pages/Contact';
 import Movie from './Pages/Movie';
+import LCC from './Components/LCC';
 
 
 
@@ -79,6 +80,7 @@ function App() {
 }
 )} */}
 <CompA data = "This is data from component 1"/>
+<LCC/>
 </div>
 {/* <Conditional/> */}
 {/* <Props title="Lumbini City College"/> */}
